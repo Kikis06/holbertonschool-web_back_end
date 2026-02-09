@@ -1,1 +1,0 @@
-This is a README for my 0x0C-MySQL_Advanced project!
